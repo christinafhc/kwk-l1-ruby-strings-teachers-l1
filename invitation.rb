@@ -2,8 +2,8 @@
 puts "Hi, you've been invited to a party! What is your name?"
 guest_name = gets.chomp.capitalize
 
-puts "What is the name of your party"
-party_name = gets.chomp.titleize
+puts "Enter party name"
+party_name = gets.chomp.capitalize
 
 puts "What is the date of the party"
 date = gets.chomp
