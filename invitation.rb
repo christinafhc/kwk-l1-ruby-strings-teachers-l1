@@ -6,7 +6,7 @@ puts "What is the name of your party"
 party_name = gets.chomp.capitalize
 
 puts "What is the date of the party"
-date = gets.chomp.string
+date = gets.chomp
 
 puts "What is the time of the party"
 time = gets.chomp
