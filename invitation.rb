@@ -1,5 +1,5 @@
 # Code your prompts here!
-puts "What is the guest name"
+puts "Hi, you've been invited to a party! What is your name?"
 guest_name = gets.chomp.capitalize
 
 puts "What is the name of your party"
