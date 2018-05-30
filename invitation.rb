@@ -16,4 +16,4 @@ host_name = gets.chomp.capitalize
 # Try starting out with puts'ing a string.
 
 puts "Dear #{guest_name}, \n \n You are cordially invited to the #{party_name} on #{date} at #{time}. Please
-RSVP no later than #{date}. \n \n Sincerely, \n \n #{host_name}"
+RSVP no later than October 30. \n \n Sincerely, \n \n #{host_name}"
